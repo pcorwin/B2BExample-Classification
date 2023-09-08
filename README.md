@@ -4,17 +4,17 @@ Using Grid Search and Random Forest Classification, a dataset of marketing leads
 
 ### Project Outline:
 
-FS_DS Assessment Fall 2021.docx
+- FS_DS Assessment Fall 2021.docx
 
 ### Data:
 
-Prospect_FS_DS Assessment.csv
-Visitor_Activity_FS_DS.csv
+- Prospect_FS_DS Assessment.csv
+- Visitor_Activity_FS_DS.csv
 
 ### Jupyter Notebook:
 
-Lead Quality Prediction.ipynb
+- Lead Quality Prediction.ipynb
 
 ### Presentation:
 
-Lead Quality Prediction Presentation.pptx
+- Lead Quality Prediction Presentation.pptx
